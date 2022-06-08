@@ -23,8 +23,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - platform: dva3221
-            version: 7.0.1-42218
+          #- platform: dva3221
+          #  version: 7.0.1-42218
           - platform: dva3221
             version: 7.1.0-42661
 
